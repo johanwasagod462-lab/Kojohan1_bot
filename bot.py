@@ -5,10 +5,10 @@ from pyrogram.types import ChatPermissions, ReplyKeyboardMarkup
 from pyrogram.enums import ParseMode
 
 # 🔑 CONFIG
-API_ID = 12345678
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
-OWNER_ID = 123456789
+API_ID = 38687584
+API_HASH = "0d494cc2bb431a8bec250a3ebf224a59"
+BOT_TOKEN = "8710028582:AAEnA5vtKyU4AsGz0tj8hebokm-VFOiZ-nc"
+OWNER_ID = 7887055769
 
 app = Client("advanced_single_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
